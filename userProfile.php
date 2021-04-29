@@ -97,8 +97,6 @@
         </div>
     </div>
 
-
-
     <!--Including Footer For Website-->
     <?php include('includes/footer.php'); ?>
 
