@@ -20,6 +20,12 @@ It's a simple app where a donor can come and register his info like blood group 
 can come to our platform and search his blood group and allow his location and we will show the available blood group of person with his contact details of available 
 donors within a radius of 20 kmph and user can contact the person by his info and met his requirement
 
+
+Link of website go to url and see the working project below 
+
+http://blood-management.rf.gd/bloodDonation/
+
+
 Setup for project
 
 install XAMP
