@@ -1,5 +1,11 @@
-![Screenshot (42)](https://user-images.githubusercontent.com/24453166/116808409-3cc4ce00-ab56-11eb-87c7-7216bb77e588.png)
+Home page
+
 ![Screenshot (14)](https://user-images.githubusercontent.com/24453166/116550507-7f976380-a914-11eb-8cd7-d36cebaeeb1c.png)
+
+Search page
+
+![Screenshot (42)](https://user-images.githubusercontent.com/24453166/116808409-3cc4ce00-ab56-11eb-87c7-7216bb77e588.png)
+
 # bloodDonation-Management-System
 It's a simple app where a donor can come and register his info like blood group contact etc and allow his location and a user or person who is in the need of blood 
 can come to our platform and search his blood group and allow his location and we will show the available blood group of person with his contact details of available 
